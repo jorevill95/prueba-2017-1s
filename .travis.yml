@@ -1,4 +1,4 @@
 language: php
 php:
-  - 7.0
+  - 7.0.18
 script: phpunit Test.php
